@@ -1,5 +1,5 @@
 <div style="background-image: url('assets/images/bg.jpg'); background-size: cover; height: 300px; width:100%; display:flex; justify-content: center; align-items:center;">
-  <img src='assets/images/logo.svg'>
+  <img src='assets/images/logo.svg' width = "400px">
 </div>
 
 # Netflix Clone Project
