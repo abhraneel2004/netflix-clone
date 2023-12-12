@@ -22,7 +22,7 @@ This project is a Netflix clone created using HTML and CSS, designed to replicat
 
 - **CSS:** Styling and layout are achieved using CSS, ensuring that the Netflix clone captures the visual aesthetics of the original platform.
 
-### **Visit the site: [https://netflix-clone-two-wine.vercel.app/](https://netflix-clone-two-wine.vercel.app/){:target="_blank"}**
+### Visit the site: [https://netflix-clone-two-wine.vercel.app/](https://netflix-clone-two-wine.vercel.app/)
 
 
 ## How to Run
